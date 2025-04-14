@@ -1,0 +1,1 @@
+# A repo to maintain all public images for the application `Simple Insta automation.`
